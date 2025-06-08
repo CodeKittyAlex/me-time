@@ -1,2 +1,3 @@
-print("kill me")
-aaaaaaaa
+aa = "kill me"
+if aa = "kill me"
+    print("kill me")

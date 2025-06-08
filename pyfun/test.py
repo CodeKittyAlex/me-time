@@ -3,4 +3,4 @@ if aa == "kill me":
     print("kill me")
 else:
     print("fag")
-# i wanna die   
+# i wanna die

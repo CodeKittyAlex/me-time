@@ -1,0 +1,11 @@
+start
+
+text de/incriptor
+To-Do List (CLI or Simple GUI)
+Rock-Paper-Scissors Game
+Currency Converter (Live Rates)
+
+/////////////////////////////
+late
+
+game

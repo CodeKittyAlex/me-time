@@ -1,6 +1,6 @@
 start
 
-text de/incriptor
+text de/encryption
 To-Do List (CLI or Simple GUI)
 Rock-Paper-Scissors Game
 Currency Converter (Live Rates)
@@ -9,3 +9,4 @@ Currency Converter (Live Rates)
 late
 
 game
+bad apple in terminal

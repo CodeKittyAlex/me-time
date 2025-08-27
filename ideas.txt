@@ -10,3 +10,4 @@ late
 
 game
 bad apple in terminal
+hypixel fish bot

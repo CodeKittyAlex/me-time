@@ -1,0 +1,10 @@
+
+function sum(a, b) {
+    let result = a + b;
+    return result;
+}
+
+let value = sum(1, 2)
+
+
+

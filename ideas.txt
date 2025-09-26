@@ -4,6 +4,7 @@ text de/encryption
 To-Do List (CLI or Simple GUI)
 Rock-Paper-Scissors Game
 Currency Converter (Live Rates)
+terminal app
 
 
 /////////////////////////////

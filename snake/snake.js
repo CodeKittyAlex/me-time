@@ -1,4 +1,4 @@
-let speed = 500;
+let speed = 200;
 const height = 20;
 const width = 20;
 

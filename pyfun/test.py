@@ -4,4 +4,4 @@ if aa == "kill me":
 else:
     print("fag")
 # i wanna die
-print("help")
+print("help me")

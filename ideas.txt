@@ -1,17 +1,9 @@
 start
 
-text de/encryption
+text encryption
+text decryption
+terminal app linux/windows
 To-Do List (CLI or Simple GUI)
-Currency Converter (Live Rates)
-terminal app
-
-
-
-
-
-
-
-
 
 /////////////////////////////
 late
@@ -20,7 +12,5 @@ game
 bad apple in terminal
 hypixel fish bot
 easy spotify controll
-
-
-
-
+web scraper
+Currency Converter (Live Rates)

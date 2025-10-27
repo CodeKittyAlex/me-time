@@ -1,18 +1,21 @@
 from cryptography.fernet import Fernet
 
-print("is de or encription needed")
-cry = input()
+print("is de(1) or encription(2) needed")
+cry = int(input())
 
 
 key = Fernet.generate_key()
 fernet = Fernet(key)
 
-if (cry.lower == 'encrypt'):
-    message = input("what is the message")
+if (cry == 2):
+    message = input("what is the message ")
     encMessage = fernet.encrypt(message.encode())
+    print(encMessage)
 
-elif (cry.lower == 'decrypt'):
-    message = input("what needs decrypting")
-    decMessage = fernet.decrypt(message.decode())
+elif (cry == 1):
+    message = input("what needs decrypting ")
+    decMessage = fernet.decrypt(message).decode()
+    print(decMessage)
+
 else:
-    print(cry)
+    print('err')
